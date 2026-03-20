@@ -1,16 +1,29 @@
-# rostros
+# Visión Artificial — Actividad Integradora 2
 
-A new Flutter project.
+Este proyecto es una aplicación web desarrollada con Flutter para la **Universidad TENAM**, que implementa dos módulos de visión artificial:
 
-## Getting Started
+1.  **Detección de Rostros (ESP32-CAM Sim)**: Utiliza `face-api.js` para detectar rostros, expresiones y puntos faciales en tiempo real, simulando el flujo de una ESP32-CAM.
+2.  **Detección de Objetos YOLO**: Implementa YOLO (You Only Look Once) mediante `ml5.js` para la detección de 80 clases diferentes de objetos sobre el stream de la cámara.
 
-This project is a starting point for a Flutter application.
+## 🚀 Demo en Vivo
 
-A few resources to get you started if this is your first Flutter project:
+Puedes probar la aplicación desplegada en Firebase Hosting aquí:
+**[https://tenam-vision-yolo-1773976989.web.app/](https://tenam-vision-yolo-1773976989.web.app/)**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologías Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter Web**: Framework principal de la UI.
+- **face-api.js**: Biblioteca de JavaScript para detección facial.
+- **ml5.js / TensorFlow.js**: Para el modelo YOLO de detección de objetos.
+- **Firebase Hosting**: Despliegue y hosting de la aplicación.
+
+## Estructura del Proyecto
+
+- `lib/main.dart`: Lógica principal de la aplicación y TabBar.
+- `web/face_detection.js`: Integración de face-api.
+- `web/yolo.js`: Integración de YOLO con ml5.js.
+- `web/index.html`: Carga de scripts y librerías necesarias.
+
+---
+
+_Actividad Integradora para la Universidad TENAM._
