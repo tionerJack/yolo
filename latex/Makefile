@@ -12,7 +12,7 @@ FLAGS = -interaction=nonstopmode -halt-on-error
 
 all: $(PDF)
 
-$(PDF): $(TEX) img/captura_modulo1.png img/captura_modulo2.png
+$(PDF): $(TEX) img/image1.png img/image2.png
 	$(LATEX) $(FLAGS) $(TEX)
 	$(LATEX) $(FLAGS) $(TEX)
 

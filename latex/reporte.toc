@@ -6,20 +6,20 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Diagrama de Flujo del Sistema}{3}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Tecnologías Utilizadas}{3}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Código Principal — face\_detection.js}{3}{subsubsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.3}Captura de Pantalla — Módulo 1}{5}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Resultados y Métricas}{5}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Tarea 2 — Detección de Objetos con YOLO}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Fundamento Teórico}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Implementación}{6}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Arquitectura del Sistema}{6}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Código Principal — yolo.js}{6}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Dataset COCO — Clases Detectadas}{7}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Captura de Pantalla — Módulo 2}{8}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Clases Detectadas en Pruebas}{8}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Arquitectura de la Aplicación}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Estructura del Proyecto}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Integración Flutter–JavaScript}{9}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Discusión y Conclusiones}{10}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Comparación de Enfoques}{10}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Conclusiones}{10}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Referencias Bibliográficas}{10}{section.6}%
+\contentsline {subsection}{\numberline {2.3}Captura de Pantalla — Módulo 1}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Resultados y Métricas}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Tarea 2 — Detección de Objetos con YOLO}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fundamento Teórico}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Implementación}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Arquitectura del Sistema}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Código Principal — yolo.js}{5}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Dataset COCO — Clases Detectadas}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Captura de Pantalla — Módulo 2}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Clases Detectadas en Pruebas}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Arquitectura de la Aplicación}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Estructura del Proyecto}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Integración Flutter–JavaScript}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Discusión y Conclusiones}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Comparación de Enfoques}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Conclusiones}{9}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Referencias Bibliográficas}{9}{section.6}%
